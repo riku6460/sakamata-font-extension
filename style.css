@@ -1,0 +1,8 @@
+@font-face {
+  font-family: sakamata-font;
+  src: local(Sakamata Chloe Font Regular), url(https://assets.riku.pw/sakamata-font-0-nostrict.woff2) format('woff2');
+}
+
+* {
+  font-family: sakamata-font !important;
+}
